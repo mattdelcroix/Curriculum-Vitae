@@ -1,0 +1,104 @@
+{
+  "Education":
+    [
+      {
+        "title": "Degree in IT, Bachelor",
+        "subtitle": "University of Pau (France)",
+        "content": "Major subjects : Programming Technique, Object Oriented Programming, Internet application Development and Design, Network Administration with Linux."
+      },
+      {
+        "title": "Professionnal Degree of Computer system and software",
+        "subtitle": "University Institute of Technology, Lens (France)",
+        "content": "Major subjects : IT Project Management, Programming Technique, Network Administration with Linux, Database Management System."
+      },
+      {
+        "title": "Hight Level Technician: Management Computer",
+        "subtitle": "Lycée Guy Mollet, Arras (France)",
+        "content": "2 years studying preparing to High Level Technician is exams Application Programming and Development. (2 internships)"
+      },
+      {
+        "title": "A Level: Accountancy option",
+        "subtitle": "Lycée Joliot Curie, Dammarie (France)",
+        "content": "Major Accountancy (3 internships)"
+      }
+    ],
+  "Skills":
+    [
+      {
+        "title": "Web Programming",
+        "subtitle": "",
+        "content": "<ul><li>HTML5 and CSS formating</li><li>Javascript and interaction with web’s servers (AJAX/API)</li><li>JQuery</li><li>PHP and MySQL – Data Transmission – MVC architecture</li><li>Laravel – Framework PHP</li><li>Bootstrap – Framework CSS</li></ul>"
+      },
+      {
+        "title": "Databases and Management System",
+        "subtitle": "",
+        "content": "<ul><li>CRUD</li><li>Joins and Subqueries</li><li>Function and Grouping</li><li>Stored Procedures</li><li>User management</li></ul>"
+      },
+      {
+        "title": "Linux Administration",
+        "subtitle": "",
+        "content": "<ul><li>Control the process and Data flux</li><li>Transmit data throught the network</li><li>Automate the task with Bash scripting</li></ul>"
+      }
+    ],
+  "Professionnal":
+    [
+      {
+        "title": "2016 - 2017 : IT Technician",
+        "subtitle": "Axione/Bouygues Energies Services, Pau (France)",
+        "content": "<ul><li>Web Programming: Applications Catalog (HTML, CSS, JS et AJAX/JSON)</li><li>Operating Technician : Integration and correction of data (Oracle, PostgreSQL, MySQL), Users requests management, Linux Administration (Automating the Taks, scripting Bash, Process Control), LDAP Administration (Users management)</li></ul>"
+      },
+      {
+        "title": "2014 - 2016 : Student in IT Degree (Several student jobs)",
+        "subtitle": "University of Pau",
+        "content": "<ul><li>Versatile Employee (Auchan Commercial Center)</li><li>Barman (Bistro Regent's Restaurant)</li><li>Team Lead (Mc Donald's Restaurant)</li></ul>"
+      },
+      {
+        "title": "2014 : Web Developer",
+        "subtitle": "Publishing House VDA, Versailles (France)",
+        "content": "<ul><li>E-commerce: Development of online store to purpose the published work (HTML5, CSS3, JS, PHP, MySQL, Cryptography SHA-256)</li></ul>"
+      },
+      {
+        "title": "2013 : IT Technician",
+        "subtitle": "Forecomm, Noisy (France)",
+        "content": "<ul><li>Web programming: Designing a taks manager (HTML5, CCS3, JS, PHP, MySQL)</li><li>Operating Technician: Production of mobiles applications, Publishing on the Play Store and Apple Store, Customers training, users support.</li></ul>"
+      },
+      {
+        "title": "2012 : Assistant Project Manager",
+        "subtitle": "Salvia Santé Group, Meaux (France)",
+        "content": "<ul><li>Project management: Computerization of the patient file (Establishing of a Gantt planning, order to provider, drafting of emergency procedures, Establishing of a data sent system in case of emergency (FTP) )</li><li>IT Technician: Active Directory Administration, FTP Server installation.</li></ul>"
+      },
+      {
+        "title": "2012 : Application Developer",
+        "subtitle": "Hospital Center of Lens, Lens (France)",
+        "content": "<ul><li>VBA Programming : Automatic generation of annual financial report. Datas transfert from Excel to Word, and then generating of PowerPoint file.</li></ul>"
+      },
+      {
+        "title": "2011 : Web Developer",
+        "subtitle": "Yamaha Start&Go, Douai (France)",
+        "content": "<ul><li>E-commerce: Development of online store to the motorcycle concessionnaire (HTML, CSS3, JS, PHP, MySQL, Cryptography SHA-256)</li></ul>"
+      },
+      {
+        "title": "2010 : Web Developer",
+        "subtitle": "Lycée Joliot Curie, Dammarie (France)",
+        "content": "<ul><li>Web development: Update the institution is website with WordPress CMS</li></ul>"
+      }
+    ],
+  "Additionnal":
+    [
+      {
+        "title": "Language",
+        "subtitle": "",
+        "content": "<ul><li>French</li><li>English</li></ul>"
+      },
+      {
+        "title": "Projects",
+        "subtitle": "",
+        "content": "<ul><li>Develop an international experience</li><li>Became an IT Ingineers (Application Development and Project Manager)</li></ul>"
+      },
+      {
+        "title": "Loisir",
+        "subtitle": "",
+        "content": "<ul><li>Sport, Hiking, Travels</li><li>Read IT Books</li><li>Read Phylosophicals Books</li></ul>"
+      }
+    ]
+}
