@@ -89,18 +89,14 @@ function cardGenerator(jsonData, title){
 
 /**
  * Ajax request to get the Json data.
- *
+ * And create the cards elements for each data.
  *
  */
 ajaxGet(JSON_URL, function(reponse){
-    //Mise en format JS
     var data = JSON.parse(reponse);
-    console.log(data);
-    //in Data, we have 4 arrays
-    //Education - Skills - Professionnal - Skills
-    //Each arrays display some Json objects (title-subtitle-content)
-      cardGenerator(data["Education"], "Education");
-        cardGenerator(data["Skills"], "Skills");
-          cardGenerator(data["Professionnal"], "Professionnal Experiences");
-            cardGenerator(data["Additionnal"], "Additionnal Information");
+    //console.log(data);
+    cardGenerator(data["Education"], "Education");
+    cardGenerator(data["Skills"], "Skills");
+    cardGenerator(data["Professionnal"], "Professionnal Experiences");
+    cardGenerator(data["Additionnal"], "Additionnal Information");
 });
